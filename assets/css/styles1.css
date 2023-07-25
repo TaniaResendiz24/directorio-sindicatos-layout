@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border 0;
+}
+div{
+    margin-bottom: 24px;
+    border: 1px;
+
+}
+.titulo-principal{
+    margin: 12px;
+    padding: 6px;
+    front-weight: 500;
+    border: 10px #000 solid;
+}
+.logo{
+    background-color: cornflowerblue;
+
+}
+.logo img:hover{
+    width: 50px;
+    height: 50px;
+}
+.logo.column.title {
+    
+}
